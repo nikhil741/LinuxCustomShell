@@ -8,7 +8,7 @@ Replace targetName with name you want to run with for convenience I usually pref
 i.e targetName can be myrm, mymv, mycd, mycat etc for it's file.c file respectively.  
 
 
-##Commands:  
+## Commands:  
 1.myrm  
 2.mymv    
 4.mycd  
@@ -18,7 +18,7 @@ i.e targetName can be myrm, mymv, mycd, mycat etc for it's file.c file respectiv
 8.mymkdir   
 9.myexit  
 
-##Sample  
+## Sample  
 'myls path'  Replace path by target address.  
 'myexit'  Terminate the Programme and will return control back to linux terminal.  
 'myls | mycat' Use of pipe likewise in linux terminal.  
